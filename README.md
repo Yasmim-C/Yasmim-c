@@ -1,28 +1,46 @@
-- # OLÁ
-- 👋 Hi, I’m @Yasmim-C
-- Sou estudante apaixonada por tecnologia.
-- Atualmente estou aprendendo QA, meu foco principal é **automação de testes** e **análise funcional**
-- Com interesse em explorar áreas como *BigData*, *IA*, *Machine Learning*
-- ## Áreas de Interesse
-- QA Automação e Ánalise Funcional
-- BigData e Inteligência Artificial
-- Machine Learning e Automação Inteligente de Testes
-- Cloud Comnputing com foco em **AWS**
-- 🚀 Vamos juntos construir algo incrível!
+# 🌟 Olá, sou a Yasmim Camargo! 👋
 
-- ## Curiosidades sobre mim 🎮🎬
+Seja bem-vindo ao meu perfil no GitLab! 🚀 Aqui você encontrará projetos incríveis e um pouco mais sobre o meu trabalho e interesses. Vamos nos conectar? 😄
 
-Além de ser apaixonada por tecnologia e QA, sou completamente fascinada por **games** e a **cultura geek**! 
-Adoro mergulhar em mundos de fantasia e ficção científica, seja jogando meu game favorito ou maratonando filmes e séries icônicas. 
+---
 
-Meu lado geek me inspira a pensar fora da caixa e trazer essa criatividade para a área de tecnologia, buscando sempre soluções inovadoras e eficientes.
-Afinal, quem não gostaria de um pouco de estratégia gamer aplicada na automação de testes? 😉
+## 👨‍💻 Sobre Mim
 
-Seja explorando uma nova série ou enfrentando desafios técnicos, estou sempre pronta para me aventurar!
+- 🎓 **Formação:** Estudante de Ciência de Dados na UNIVESP 📊 e formada em Educação Física pela Universidade de Uberaba 🎓.
+- 🧪 Atualmente faço parte do programa de bolsas da CompassUOL, focado em Quality Engineering. Focado em **automação de testes**, **inteligência artificial** e **qualidade de software**.
+- 🌱 Atualmente aprendendo mais sobre **Machine Learning**, **AWS**, **ferramentas de IA generativa**, **HTML** e **CSS**.
+- 🎮 **Hobbies:** Apaixonada por **games**, **cultura geek** e **fitness** 🏋️‍♂️.
 
+---
 
+## 🔧 Minhas Ferramentas & Tecnologias
+- **Linguagens:** JavaScript
+- **Testes:** Playwright 🎭, Mocha ☕, Chai 🧪
+- **APIs:** Postman 📬
+- **IA e Chatbots:** ChatGPT 🤖, Gemini 🌟, Flowise 🌀
+- **Nuvem:** AWS ☁️
+- **Banco de Dados:** SQL, NoSQL 🛢️
+- **Metodologias:** Scrum, Agile 🚀
 
-<!---
-Yasmim-C/Yasmim-C is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## ✨ Projetos em Destaque
+
+### 1️⃣ [Chatbot Fitness - GymFlow 💪]()
+- 🧠 Um chatbot para ajudar personal trainers e entusiastas do mundo fitness a alcançar seus objetivos.
+
+### 2️⃣ [Automação de Testes com Playwright 🎭]()
+- 🔍 Conjunto de scripts para automação de testes web utilizando Playwright e práticas modernas de QA.
+
+---
+
+## 🌐 Como Me Encontrar
+  
+[📱 **LinkedIn**](https://www.linkedin.com/in/yasmim-camargo2/)  
+[🎮 **GitLab**](https://gitlab.com/Yaya-C)
+
+---
+
+⚡ _"A qualidade é a ponte entre ideias incríveis e experiências impecáveis."_  
+
+[![My Skills](https://skillicons.dev/icons?i=git,gitlab,github,postman,vscode,nodejs,js,gherkin,html,css,linkedin&perline=6)](https://skillicons.dev)
