@@ -1,6 +1,6 @@
 # 🌟 Olá, sou a Yasmim Camargo! 👋
 
-Seja bem-vindo ao meu perfil no GitLab! 🚀 Aqui você encontrará projetos incríveis e um pouco mais sobre o meu trabalho e interesses. Vamos nos conectar? 😄
+Seja bem-vindo ao meu perfil no GitHub! 🚀 Aqui você encontrará projetos incríveis e um pouco mais sobre o meu trabalho e interesses. Vamos nos conectar? 😄
 
 ---
 
@@ -26,10 +26,7 @@ Seja bem-vindo ao meu perfil no GitLab! 🚀 Aqui você encontrará projetos inc
 
 ## ✨ Projetos em Destaque
 
-### 1️⃣ [Chatbot Fitness - GymFlow 💪]()
-- 🧠 Um chatbot para ajudar personal trainers e entusiastas do mundo fitness a alcançar seus objetivos.
-
-### 2️⃣ [Automação de Testes com Playwright 🎭]()
+### 1️⃣ [Automação de Testes com Playwright 🎭](https://gitlab.com/qe-studio/sprint-1)
 - 🔍 Conjunto de scripts para automação de testes web utilizando Playwright e práticas modernas de QA.
 
 ---
